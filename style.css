@@ -1,0 +1,82 @@
+.logo {
+  display: flex;
+  justify-content: center;
+}
+img {
+  margin-top: 20px;
+}
+.container {
+  background-color: rgb(192, 198, 199);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-bottom: 2px;
+}
+h1 {
+  font-weight: 100;
+  position: relative;
+  align-items: center;
+  text-align: center;
+}
+.search {
+  position: relative;
+  align-items: center;
+  text-align: center;
+  width: 400px;
+  margin: auto;
+}
+.buttons {
+  position: relative;
+  align-items: center;
+  text-align: center;
+  width: 400px;
+  margin: auto;
+}
+.second-container {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.left {
+  align-items: center;
+  width: 500px;
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin: 0;
+  margin-right: 2px;
+}
+.middle {
+  align-items: center;
+  width: 300px;
+  background-color: rgba(24, 192, 192, 0.849);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-right: 2px;
+}
+.right {
+  align-items: center;
+  width: 500px;
+  background-color: rgb(47, 167, 167);
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.btn-k {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+}
+.email {
+  width: 200px;
+}
+.btn {
+  width: 100px;
+}
+h3 {
+  margin-top: 0px;
+  margin-bottom: 0;
+  font-weight: 100;
+}
